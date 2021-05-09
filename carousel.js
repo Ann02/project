@@ -23,8 +23,8 @@ class Carousel {
 }
 
 new Carousel([
-    'img/baby-yoda.svg',
-    'img/banana.svg',
-    'img/girl.svg',
+    'img/baby-yoda.png',
+    'img/banana.png',
+    'img/girl.png',
     'img/viking.svg'
 ]);
